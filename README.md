@@ -3,4 +3,4 @@
 
 simple page with HTML and CSS
 
-![alt text](https://ibb.co/mTc02Nq)
+![alt text](https://i.ibb.co/c3rwZYF/sample.png)
