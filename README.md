@@ -3,4 +3,4 @@
 
 simple page with HTML and CSS
 
-![alt text]([http://url/to/img.png](https://ibb.co/mTc02Nq))
+![alt text](https://kinsta.com/es/wp-content/uploads/sites/8/2020/10/tipos-de-archivos-de-imagen.png)
